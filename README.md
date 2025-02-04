@@ -6,7 +6,6 @@ This repository contains the backend for HouseIt, built using **Python, FastAPI,
 ## Features
 - 🚀 **FastAPI** for high-speed API responses and automatic Swagger documentation
 - 🗄 **SQLAlchemy** as the ORM for efficient database operations
-- 🔐 **JWT Authentication** for secure user access (if applicable)
 - 📄 **CRUD Operations** for managing database records
 
 ## Tech Stack
